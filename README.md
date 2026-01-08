@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm SAI KIRAN REDDY
 
-💻 SDE |DATA ENGINEER|DATA SCIENTIST|AIDEVLOPER | 🌍 INDIA | 🚀 Building AI
+💻 SDE | DATA ENGINEER| DATA SCIENTIST| AIDEVLOPER | 🌍 INDIA | 🚀 Building AI
 
 ## 🔧 Technologies & Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
