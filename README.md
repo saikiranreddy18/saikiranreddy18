@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:2d1b69,100:0f0c29&height=220&section=header&text=SAI%20KIRAN%20REDDY&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Agentic%20AI%20Expert&descAlignY=58&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0a0a1a&height=240&section=header&text=SAI%20KIRAN%20REDDY&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=680&lines=🚀+Building+Real-Time+Data+Pipelines+at+Scale;🤖+Designing+Autonomous+AI+Agents+%26+Systems;📊+Turning+Raw+Data+into+Business+Decisions;⚡+Kafka+→+Spark+→+Delta+Lake+→+Production;🏆+IBM+Data-thon+2nd+Place+%7C+N8N+Hackathon+Winner;🔥+Always+Building.+Always+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=720&lines=⚡+10%2C000%2B+transactions%2Fmin+→+Kafka+%2B+Spark+%2B+Delta+Lake;🧠+90%25%2B+ML+Accuracy+on+Real-Time+Fraud+Detection;🤖+Autonomous+Agents+that+think%2C+act+%26+self-heal;🏆+%24350+N8N+Hackathon+Winner+%7C+IBM+Data-thon+2nd+Place;🚀+Final+Year+CSE+%40+LPU+→+Open+to+Remote+Worldwide" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=saikiranreddy18&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 &nbsp;
@@ -14,43 +14,60 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-00d084?style=for-the-badge&logo=checkmarx&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Remote%20Worldwide-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" />
+<img src="https://img.shields.io/badge/Remote%20Worldwide-A78BFA?style=for-the-badge&logo=globe&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Final%20Year%20B.Tech-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 
 </div>
 
 ---
 
-## 🧠 Who Am I
+## 🧠 Identity
 
 ```python
 class SaiKiranReddyTallapureddy:
 
     name        = "Sai Kiran Reddy Tallapureddy"
-    location    = "India 🇮🇳  →  Open to Remote Worldwide 🌍"
-    education   = "B.Tech CSE @ Lovely Professional University (2026)"
+    location    = "India 🇮🇳  →  Bangalore  →  Open to Remote Worldwide 🌍"
+    education   = "B.Tech CSE @ Lovely Professional University (Aug 2022 – Jun 2026)"
+    cgpa        = 7.7
 
     roles = [
-        "🏗️  Data Engineer",        # Kafka · Spark · Delta Lake · Databricks
-        "🤖  AI/ML Developer",       # PyTorch · TensorFlow · scikit-learn · MLflow
-        "🔗  Agentic AI Expert",     # N8N · LangChain · RAG · Autonomous Agents
-        "📊  Data Scientist",        # XGBoost · Prophet · Feature Engineering
-        "☁️  Cloud & DevOps",        # AWS · Kubernetes · Docker · Terraform
+        "🏗️  Data Engineer",          # Kafka · Spark · Delta Lake · Databricks · Airflow
+        "🤖  AI/ML Developer",         # PyTorch · TensorFlow · CatBoost · XGBoost · MLflow
+        "🔗  Agentic AI Architect",    # N8N · LangChain · RAG · Autonomous Multi-Agent Systems
+        "📊  Data Scientist",          # Prophet · Feature Engineering · Statistical Modelling
+        "☁️  Cloud & DevOps",          # AWS · Kubernetes · Docker · Terraform · CI/CD
     ]
 
-    current_stack  = ["Kafka", "Spark", "Delta Lake", "MLflow", "Kubernetes", "RAG"]
-    learning_now   = ["LLM Fine-tuning", "LangGraph Agents", "Databricks Unity Catalog"]
-    achievements   = ["🥈 IBM Data-thon 2nd Place", "💰 $350 N8N Agentic Hackathon Winner"]
+    current_stack  = ["Kafka", "Spark", "Delta Lake", "MLflow", "Kubernetes", "RAG", "LangChain"]
+    learning_now   = ["LLM Fine-tuning", "LangGraph Agents", "Databricks Unity Catalog", "SSMs"]
+    achievements   = [
+        "🥈  IBM Data-thon 2nd Place (Mar 2024)",
+        "💰  $350 N8N Agentic Arena Hackathon Winner (Sep 2025)",
+    ]
 
     def mission(self):
         return "Bridge raw data → intelligent, autonomous, production-grade AI systems 🚀"
 
     def contact(self):
         return {
-            "email":    "saikiranreddytallapureddy@gmail.com",
+            "email"   : "saikiranreddytallapureddy@gmail.com",
             "linkedin": "linkedin.com/in/saikiranreddytallapu",
-            "github":   "github.com/saikiranreddy18"
+            "github"  : "github.com/saikiranreddy18",
         }
 ```
+
+---
+
+## ⚡ Real-Time AI Data Pipeline — 3D Architecture
+
+<div align="center">
+<img width="100%" src="assets/pipeline-3d.svg" alt="3D Data Pipeline Architecture"/>
+</div>
+
+> **Kafka → Spark Streaming → Delta Lake (Bronze/Silver/Gold) → ML Models → Kubernetes → Power BI**
+> Built and shipped this entire stack. Not theory — production.
 
 ---
 
@@ -58,13 +75,187 @@ class SaiKiranReddyTallapureddy:
 
 <div align="center">
 
-| 🥈 IBM Data-thon — 2nd Place | 💰 N8N Agentic Arena — $350 Prize |
-|:---:|:---:|
-| Competed against top college teams | Built & deployed a live autonomous AI agent |
-| Presented data insights to IBM judges | Awarded for real-world AI automation impact |
-| March 2024 | September 2025 |
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🥈_2nd_Place-IBM_Data--thon_2024-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+<br/><br/>
+<b>IBM Data-thon Competition</b><br/>
+Competed against top engineering college teams nationwide<br/>
+Presented data insights directly to IBM judges<br/>
+Built a large-scale ML pipeline under competition pressure<br/>
+<sub>📅 March 2024</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🏆_$350_Prize-N8N_Agentic_Arena_2025-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<br/><br/>
+<b>N8N Agentic Arena Hackathon</b><br/>
+Built & deployed a live autonomous multi-step reasoning agent<br/>
+Awarded for real-world AI automation impact<br/>
+Agent ran end-to-end without human intervention<br/>
+<sub>📅 September 2025</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## ⚙️ Skill Proficiency Matrix
+
+<div align="center">
+<img width="100%" src="assets/skills-3d.svg" alt="Skills Visualization"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🔴 Real-Time Fraud Detection System
+[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=saikiranreddy18&repo=AI-Powered-Real-Time-Fraud-Detection-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/saikiranreddy18/AI-Powered-Real-Time-Fraud-Detection-System)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ Architecture**
+```
+Kafka Events
+    ↓
+PySpark Streaming
+    ↓
+Delta Live Tables (Bronze→Silver→Gold)
+    ↓
+MLflow Model Registry (90%+ accuracy)
+    ↓
+Power BI — Live Fraud Dashboards
+```
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Metrics**
+
+| Metric | Value |
+|--------|-------|
+| ⚡ Throughput | 10,000+ tx/min |
+| 🎯 Accuracy | 90%+ |
+| 🏗️ Architecture | Medallion (B/S/G) |
+| 🛠️ Stack | Databricks · Kafka · PySpark |
+| 📊 Output | Live Power BI dashboards |
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌾 Multilingual Agricultural Commodity Forecasting
+[![Agri](https://github-readme-stats.vercel.app/api/pin/?username=saikiranreddy18&repo=Capstone-Agri_cat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=ff6b6b)](https://github.com/saikiranreddy18/Capstone-Agri_cat)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Intelligence Stack**
+```
+Twitter + Reddit + Google News
+(Hindi · Telugu · English)
+    ↓
+FinBERT Sentiment Analysis
+    ↓
+CatBoost + Market + Climate Signals
+    ↓
+82.57% 7-Day Price Forecast
+    ↓
+n8n Automated Real-Time Refresh
+```
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Metrics**
+
+| Metric | Value |
+|--------|-------|
+| 🎯 Accuracy | 82.57% (7-day) |
+| 🌐 Languages | Hindi · Telugu · English |
+| 📡 Data Sources | APMC · OpenMeteo · Social APIs |
+| 🤖 Model | CatBoost + FinBERT NLP |
+| ⚙️ Automation | n8n continuous pipeline |
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛡️ Autonomous Self-Healing Kubernetes Platform
+[![Self-Healing](https://github-readme-stats.vercel.app/api/pin/?username=saikiranreddy18&repo=AI-Powered-Autonomous-Self-Healing-Kubernetes-Reliability-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d084&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/saikiranreddy18/AI-Powered-Autonomous-Self-Healing-Kubernetes-Reliability-Platform)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔁 Self-Healing Loop**
+```
+Prometheus Metrics
+    ↓
+Python Anomaly Detection Engine
+(Statistical Thresholding + Trends)
+    ↓
+Predict failure before SLO breach
+    ↓
+Auto: Pod Restart / Scale-Up / Rollback
+    ↓
+Slack + Email Alert → Zero Human Touch
+```
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Capabilities**
+
+| Feature | Status |
+|---------|--------|
+| 🧠 AI Detection | Anomaly + Trend |
+| 🔁 Auto-Heal | Pod · Scale · Rollback |
+| 👁️ Observability | CPU · Mem · Latency · Errors |
+| 🔔 Alerts | Slack + Email (structured) |
+| 🎯 Human Touch | Zero Intervention |
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🔮 Supply Chain Demand Forecasting
+[![Supply Chain](https://github-readme-stats.vercel.app/api/pin/?username=saikiranreddy18&repo=AI-Powered-Supply-Chain-Demand-Forecasting-Optimization-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffd166&text_color=c9d1d9&icon_color=ff6b6b)](https://github.com/saikiranreddy18/AI-Powered-Supply-Chain-Demand-Forecasting-Optimization-Platform)
+
+</div>
+
+```
+📦 Scale   : 20,000+ retail order events/day · Region-wise demand aggregation
+🤖 Models  : Prophet (time-series) + XGBoost (gradient boost) + Anomaly Detection Engine
+📉 Impact  : ~20% reduction in stock-out and overstock scenarios
+🔧 Infra   : Linear Programming optimizer · ML on Kubernetes · MLflow tracking
+```
 
 ---
 
@@ -79,15 +270,11 @@ class SaiKiranReddyTallapureddy:
 </div>
 
 <div align="center">
-
 <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiranreddy18&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=a78bfa" />
-
 </div>
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy18&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true&custom_title=📈+Contribution+Activity+—+Building+Every+Day" />
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy18&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true&custom_title=📈+Contribution+Graph+—+Always+Building" />
 </div>
 
 ---
@@ -100,73 +287,22 @@ class SaiKiranReddyTallapureddy:
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Full Technology Arsenal
 
-<div align="center">
-
-### 🔴 LIVE — Real-Time Fraud Detection System
-[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=saikiranreddy18&repo=AI-Powered-Real-Time-Fraud-Detection-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/saikiranreddy18/AI-Powered-Real-Time-Fraud-Detection-System)
-
-</div>
-
-```
-📌 Stack  : Databricks · PySpark · Apache Kafka · Delta Live Tables · MLflow · Power BI
-⚡ Scale  : 10,000+ financial transactions processed per minute
-🏅 Model  : 90%+ prediction accuracy · Optimized Precision/Recall for fraud detection
-🏗️ Arch  : Bronze → Silver → Gold Delta Lake Medallion Architecture
-📊 Output : Live Power BI dashboards — geolocation anomalies, high-risk user alerts
-```
-
----
-
-<div align="center">
-
-### 🔮 Supply Chain Demand Forecasting & Optimization
-[![Supply Chain](https://github-readme-stats.vercel.app/api/pin/?username=saikiranreddy18&repo=AI-Powered-Supply-Chain-Demand-Forecasting-Optimization-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=ff6b6b)](https://github.com/saikiranreddy18/AI-Powered-Supply-Chain-Demand-Forecasting-Optimization-Platform)
-
-</div>
-
-```
-📌 Stack  : Kafka · Spark Structured Streaming · Delta Lake · Prophet · XGBoost · MLflow · Kubernetes
-📦 Scale  : 20,000+ retail order events processed per day · Region-wise demand aggregation
-🤖 Models : Time-series forecasting (Prophet + XGBoost) · Anomaly detection engine
-📉 Impact : ~20% reduction in stock-out and overstock scenarios
-🔧 Infra  : Linear Programming inventory optimizer · ML services on Kubernetes · MLflow tracking
-```
-
----
-
-<div align="center">
-
-### 🛡️ Autonomous Self-Healing Kubernetes Platform
-[![Self-Healing](https://github-readme-stats.vercel.app/api/pin/?username=saikiranreddy18&repo=AI-Powered-Autonomous-Self-Healing-Kubernetes-Reliability-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d084&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/saikiranreddy18/AI-Powered-Autonomous-Self-Healing-Kubernetes-Reliability-Platform)
-
-</div>
-
-```
-📌 Stack  : Kubernetes · Docker · Python · Prometheus · Grafana · Loki · Alertmanager · Slack Webhooks
-🤖 AI     : Anomaly detection engine — predicts crashes before SLO breach
-🔁 Heal   : Auto-restart · Horizontal scale-up · Deployment rollback — zero human intervention
-👁️ Obs   : Full observability stack — CPU, memory, latency, error rates across all microservices
-🔔 Alerts : Automated Slack + email incident reports with structured summaries
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 🐍 Languages
-<div align="left">
+<details>
+<summary><b>🐍 Languages</b></summary>
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</div>
+</details>
 
-### 🤖 AI · ML · Agentic Systems
-<div align="left">
+<details>
+<summary><b>🤖 AI · ML · Agentic Systems</b></summary>
+<br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -177,10 +313,11 @@ class SaiKiranReddyTallapureddy:
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-</div>
+</details>
 
-### 🏗️ Data Engineering & Big Data
-<div align="left">
+<details>
+<summary><b>🏗️ Data Engineering & Big Data</b></summary>
+<br/>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -190,20 +327,11 @@ class SaiKiranReddyTallapureddy:
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-</div>
+</details>
 
-### 🗄️ Databases
-<div align="left">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
-### ☁️ Cloud · DevOps · Infrastructure
-<div align="left">
+<details>
+<summary><b>☁️ Cloud · DevOps · Infrastructure</b></summary>
+<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -212,80 +340,69 @@ class SaiKiranReddyTallapureddy:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
+</details>
 
-### 📊 Monitoring · Analytics · BI
-<div align="left">
+<details>
+<summary><b>🗄️ Databases · Monitoring · BI</b></summary>
+<br/>
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-</div>
+</details>
 
 ---
 
-## 📐 System Architecture I Work With
+## 💼 Experience
 
+<table>
+<tr>
+<td width="12%" align="center">
+<img src="https://img.shields.io/badge/Broadridge-00703C?style=for-the-badge&logoColor=white"/>
+<br/>
+<sub><b>Jun – Aug 2025</b></sub>
+</td>
+<td width="88%">
+
+**DevOps & Data Infrastructure Intern** — *Broadridge Financial Solutions*
+
+```yaml
+Stack  : Jenkins · Kubernetes · Terraform · AWS · Grafana · Datadog · GitOps
+Impact :
+  ✅ Reduced deployment cycle time by 40% via automated CI/CD (Jenkins + GitOps)
+  ✅ Managed containerized workloads — 5+ microservices, Kubernetes, zero-downtime
+  ✅ Cut infrastructure provisioning effort by 60% using Terraform IaC
+  ✅ Reduced MTTD by 35% with Grafana + Datadog observability stack
 ```
-                    ┌─────────────────────────────────────────────────────┐
-                    │         REAL-TIME DATA + AI PIPELINE                │
-                    └─────────────────────────────────────────────────────┘
 
-  📥 INGEST          ⚙️  PROCESS              🧠 AI LAYER          📤 SERVE
- ──────────        ─────────────          ──────────────        ──────────
-  Kafka             Spark                  scikit-learn          MLflow
-  Events      →    Structured      →      XGBoost         →     Model
-  Streams           Streaming             Prophet               Registry
-                                          PyTorch               └→ APIs
-
-  🏗️  STORAGE        👁️  OBSERVE             🤖 AGENTS            📊 REPORT
- ──────────        ─────────────          ──────────────        ──────────
-  Delta Lake        Prometheus             LangChain             Power BI
-  Bronze       →   Grafana         →      N8N             →     Tableau
-  Silver            Datadog               Autonomous            Dashboards
-  Gold              Alertmanager          Workflows             Alerts
-```
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Contribution Heatmap
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikiranreddy18/saikiranreddy18/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikiranreddy18/saikiranreddy18/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/saikiranreddy18/saikiranreddy18/output/github-snake-dark.svg" />
 </picture>
-
 </div>
 
-> **⚡ Enable the snake:** Add `.github/workflows/snake.yml` to your profile repo — [setup guide](https://github.com/Platane/snk)
-
----
-
-## 💼 Experience
-
-```yaml
-Intern: DevOps & Data Infrastructure
-  Company  : Broadridge Financial Solutions
-  Period   : June 2025 – August 2025
-  Stack    : Jenkins · Kubernetes · Terraform · AWS · Grafana · Datadog
-  Impact   :
-    - Reduced deployment cycle time by 40% via automated CI/CD pipelines
-    - Managed containerized workloads across 5+ microservices on Kubernetes
-    - Cut manual infrastructure provisioning effort by 60% using Terraform IaC
-    - Reduced mean-time-to-detect (MTTD) incidents by 35% via observability stack
-```
+> **⚡ Snake setup:** `.github/workflows/snake.yml` → [guide](https://github.com/Platane/snk)
 
 ---
 
 ## 📜 Certifications
 
-<div align="left">
+<div align="center">
 
 [![IBM Big Data](https://img.shields.io/badge/IBM-Big%20Data%20Certificate-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/03c12c7c-a539-4c79-ae75-977a29b84473/linked_in_profile)
 &nbsp;
@@ -294,14 +411,6 @@ Intern: DevOps & Data Infrastructure
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-DSA%20Certificate-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/saikiranreddy18/certificates/blob/main/62d132a4b16ba1923242bfbcacefdd3f.pdf)
 
 </div>
-
----
-
-## 📈 Weekly Dev Breakdown
-
-<!--START_SECTION:waka-->
-> ⏱️ **[Enable WakaTime](https://wakatime.com)** to display a live weekly coding breakdown here.
-<!--END_SECTION:waka-->
 
 ---
 
@@ -321,10 +430,10 @@ Intern: DevOps & Data Infrastructure
 
 ```
 💬 Always open to:
-   ├── Data Engineering / AI Developer roles (Remote Worldwide)
-   ├── Collaborating on Agentic AI & LLM projects
-   ├── Open source contributions in data/AI space
-   └── Interesting problems involving real-time data at scale
+   ├── Data Engineering / AI Developer / SRE roles  (Remote Worldwide)
+   ├── Collaborating on Agentic AI, LLM, and real-time data projects
+   ├── Open source contributions in data / AI infrastructure
+   └── Interesting problems at the intersection of data + intelligence
 ```
 
 <br/>
@@ -333,7 +442,7 @@ Intern: DevOps & Data Infrastructure
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Data%20→%20Intelligence%20→%20Impact&fontSize=22&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:2d1b69,100:0a0a1a&height=130&section=footer&text=Raw%20Data%20→%20Intelligence%20→%20Impact&fontSize=22&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
 
 <sub>⭐ If my projects help you — a star means the world. Let's build something great together.</sub>
 
