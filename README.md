@@ -1,8 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0a0a1a&height=240&section=header&text=SAI%20KIRAN%20REDDY&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0a0a1a&height=240&section=header&text=SAI%20KIRAN%20&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=720&lines=⚡+10%2C000%2B+transactions%2Fmin+→+Kafka+%2B+Spark+%2B+Delta+Lake;🧠+90%25%2B+ML+Accuracy+on+Real-Time+Fraud+Detection;🤖+Autonomous+Agents+that+think%2C+act+%26+self-heal;🏆+%24350+N8N+Hackathon+Winner+%7C+IBM+Data-thon+2nd+Place;🚀+Final+Year+CSE+%40+LPU+→+Open+to+Remote+Worldwide" alt="Typing SVG" />
 </a>
 
@@ -262,30 +261,9 @@ Slack + Email Alert → Zero Human Touch
 ## 🔥 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikiranreddy18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranreddy18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiranreddy18&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=a78bfa" />
-</div>
-
 <div align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy18&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true&custom_title=📈+Contribution+Graph+—+Always+Building" />
 </div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=saikiranreddy18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
-</div>
-
----
 
 ## 🛠️ Full Technology Arsenal
 
