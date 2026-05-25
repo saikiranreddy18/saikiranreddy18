@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0a0a1a&height=240&section=header&text=SAI%20KIRAN%20&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=720&lines=⚡+10%2C000%2B+transactions%2Fmin+→+Kafka+%2B+Spark+%2B+Delta+Lake;🧠+90%25%2B+ML+Accuracy+on+Real-Time+Fraud+Detection;🤖+Autonomous+Agents+that+think%2C+act+%26+self-heal;🏆+%24350+N8N+Hackathon+Winner+%7C+IBM+Data-thon+2nd+Place;🚀+Final+Year+CSE+%40+LPU+→+Open+to+Remote+Worldwide" alt="Typing SVG" />
-</a>
 
 <br/><br/>
 
@@ -261,9 +260,43 @@ Slack + Email Alert → Zero Human Touch
 ## 🔥 GitHub Stats
 
 <div align="center">
-<div align="center">
+
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy18&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true&custom_title=📈+Contribution+Graph+—+Always+Building" />
+
 </div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/saikreddy18?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
+
+<br/><br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-saikreddy18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saikreddy18)
+
+</div>
+
+---
+
+## 🌐 LinkedIn
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saikiranreddytallapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiranreddytallapu/)
+
+<br/>
+
+```
+📌 Recommendations · Endorsements · Latest Activity → LinkedIn
+   Data Engineering · Agentic AI · MLOps · Cloud Infrastructure
+```
+
+</div>
+
+---
 
 ## 🛠️ Full Technology Arsenal
 
@@ -397,6 +430,8 @@ Impact :
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiranreddytallapu/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saikreddy18)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiranreddytallapureddy@gmail.com)
 &nbsp;
