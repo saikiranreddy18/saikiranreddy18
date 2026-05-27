@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0a0a1a&height=240&section=header&text=SAI%20KIRAN%20&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0a0a1a&height=240&section=header&text=SAI%20KIRAN%20REDDY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=720&lines=⚡+10%2C000%2B+transactions%2Fmin+→+Kafka+%2B+Spark+%2B+Delta+Lake;🧠+90%25%2B+ML+Accuracy+on+Real-Time+Fraud+Detection;🤖+Autonomous+Agents+that+think%2C+act+%26+self-heal;🏆+%24350+N8N+Hackathon+Winner+%7C+IBM+Data-thon+2nd+Place;🚀+Final+Year+CSE+%40+LPU+→+Open+to+Remote+Worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=720&lines=⚡+10%2C000%2B+transactions%2Fmin+→+Kafka+%2B+Spark+%2B+Delta+Lake;🧠+90%25%2B+ML+Accuracy+on+Real-Time+Fraud+Detection;🤖+Autonomous+Agents+that+think%2C+act+%26+self-heal;🏆+%24350+N8N+Hackathon+Winner+%7C+IBM+Data-thon+2nd+Place;🚀+Final+Year+CSE+%40+LPU+→+Open+to+Remote+Worldwide" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -12,9 +12,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-00d084?style=for-the-badge&logo=checkmarx&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Remote%20Worldwide-A78BFA?style=for-the-badge&logo=globe&logoColor=white" />
+<img src="https://img.shields.io/badge/Remote%20Worldwide-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Final%20Year%20B.Tech-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/Final%20Year%20B.Tech-FF6B35?style=for-the-badge&logo=mortarboard&logoColor=white" />
 
 </div>
 
@@ -58,20 +58,33 @@ class SaiKiranReddyTallapureddy:
 
 ---
 
-## ⚡ Real-Time AI Data Pipeline — 3D Architecture
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-<img width="100%" src="assets/pipeline-3d.svg" alt="3D Data Pipeline Architecture"/>
-</div>
 
-> **Kafka → Spark Streaming → Delta Lake (Bronze/Silver/Gold) → ML Models → Kubernetes → Power BI**
-> Built and shipped this entire stack. Not theory — production.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saikiranreddy18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ff6b6b&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=saikiranreddy18&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681" />
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranreddy18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy18&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true&custom_title=📈+Contribution+Graph+—+Always+Building" />
+
+</div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements & Trophies
 
 <div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=saikiranreddy18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+<br/><br/>
 
 <table>
 <tr>
@@ -100,11 +113,41 @@ Agent ran end-to-end without human intervention<br/>
 
 ---
 
-## ⚙️ Skill Proficiency Matrix
+## 🧩 LeetCode
 
 <div align="center">
-<img width="100%" src="assets/skills-3d.svg" alt="Skills Visualization"/>
+
+<!-- Stats Card + Streak side by side -->
+<img height="200" src="https://leetcard.jacoblin.cool/saikreddy18?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
+
+<br/><br/>
+
+<!-- LeetCode Badges -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=saikreddy18&border=animated&animation=blink" alt="LeetCode Badges" />
+
+<br/><br/>
+
+<!-- Top 50 SQL Badge — manually pinned since it's earned -->
+<img src="https://img.shields.io/badge/🏅_Top_50-SQL-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Study_Plan-SQL_50_Completed-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+<br/><br/>
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-saikreddy18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saikreddy18)
+
 </div>
+
+---
+
+## ⚡ Real-Time AI Data Pipeline — Architecture
+
+<div align="center">
+<img width="100%" src="assets/pipeline-3d.svg" alt="3D Data Pipeline Architecture"/>
+</div>
+
+> **Kafka → Spark Streaming → Delta Lake (Bronze/Silver/Gold) → ML Models → Kubernetes → Power BI**
+> Built and shipped this entire stack. Not theory — production.
 
 ---
 
@@ -257,30 +300,6 @@ Slack + Email Alert → Zero Human Touch
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy18&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true&custom_title=📈+Contribution+Graph+—+Always+Building" />
-
-</div>
-
----
-
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/saikreddy18?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
-
-<br/><br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-saikreddy18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saikreddy18)
-
-</div>
-
----
-
 ## 🌐 LinkedIn
 
 <div align="center">
@@ -415,6 +434,8 @@ Impact :
 
 <div align="center">
 
+[![Databricks](https://img.shields.io/badge/Databricks-Fundamentals%20Accreditation-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com)
+&nbsp;
 [![IBM Big Data](https://img.shields.io/badge/IBM-Big%20Data%20Certificate-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/03c12c7c-a539-4c79-ae75-977a29b84473/linked_in_profile)
 &nbsp;
 [![UiPath](https://img.shields.io/badge/UiPath-Automation%20Developer%20Associate-FA4616?style=for-the-badge&logo=uipath&logoColor=white)](https://github.com/saikiranreddy18/certificates/blob/main/Automation%20Developer%20Associate%20Training.pdf)
