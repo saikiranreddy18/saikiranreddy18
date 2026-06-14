@@ -117,15 +117,92 @@ Agent ran end-to-end without human intervention<br/>
 
 <div align="center">
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-saikreddy18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saikreddy18)
 
-<br/><br/>
+<br/>
 
 <!-- 1 Year Submission Heatmap -->
 <img width="80%" src="https://leetcard.jacoblin.cool/saikreddy18?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode 1 Year Submissions Heatmap" />
 
 <br/><br/>
 
+### 🏅 LeetCode Badges
 
+> Badges earned by completing study plans, daily challenges, and contest performance milestones.
+
+#### 🎯 Contest Medals
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80" height="80" alt="Guardian"/>
+<br/>
+<b>Guardian</b>
+<br/>
+<sub>Rating ≥ 2500 + Top 5% in a contest</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="80" height="80" alt="Knight"/>
+<br/>
+<b>Knight</b>
+<br/>
+<sub>Rating ≥ 1600 + Top 25% in a contest</sub>
+</td>
+</tr>
+</table>
+
+#### 📅 Monthly Challenge Badges *(earn by solving daily for the full month)*
+
+<table>
+<tr>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-01.gif" width="64" height="64" /><br/><sub>Jan 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-02.gif" width="64" height="64" /><br/><sub>Feb 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-03.gif" width="64" height="64" /><br/><sub>Mar 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-04.gif" width="64" height="64" /><br/><sub>Apr 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-05.gif" width="64" height="64" /><br/><sub>May 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-06.gif" width="64" height="64" /><br/><sub>Jun 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-07.gif" width="64" height="64" /><br/><sub>Jul 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-08.gif" width="64" height="64" /><br/><sub>Aug 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-09.gif" width="64" height="64" /><br/><sub>Sep 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-10.gif" width="64" height="64" /><br/><sub>Oct 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-11.gif" width="64" height="64" /><br/><sub>Nov 2025</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-12.gif" width="64" height="64" /><br/><sub>Dec 2025</sub></td>
+</tr>
+</table>
+
+#### 📆 Annual & Streak Badges
+
+<table>
+<tr>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" height="72" /><br/><sub><b>50 Days 2024</b></sub><br/><sub>Submit on 50+ days</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="72" height="72" /><br/><sub><b>100 Days 2024</b></sub><br/><sub>Submit on 100+ days</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="72" height="72" /><br/><sub><b>50 Days 2025</b></sub><br/><sub>Submit on 50+ days</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="72" height="72" /><br/><sub><b>100 Days 2025</b></sub><br/><sub>Submit on 100+ days</sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2025-200.gif" width="72" height="72" /><br/><sub><b>200 Days 2025</b></sub><br/><sub>Submit on 200+ days</sub></td>
+</tr>
+</table>
+
+#### 📚 Study Plan Badges *(complete the full study plan to earn)*
+
+<table>
+<tr>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/lc-75.gif" width="72" height="72" /><br/><sub><b>LeetCode 75</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/top-interview-150.gif" width="72" height="72" /><br/><sub><b>Top Interview 150</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/top-100-liked.gif" width="72" height="72" /><br/><sub><b>Top 100 Liked</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/top-sql-50.gif" width="72" height="72" /><br/><sub><b>Top SQL 50</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/dynamic-programming.gif" width="72" height="72" /><br/><sub><b>Dynamic Programming</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/graph-theory.gif" width="72" height="72" /><br/><sub><b>Graph Theory</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/binary-search.gif" width="72" height="72" /><br/><sub><b>Binary Search</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/programming-skills.gif" width="72" height="72" /><br/><sub><b>Programming Skills</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/30-days-of-javascript.gif" width="72" height="72" /><br/><sub><b>30 Days of JS</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/30-days-of-pandas.gif" width="72" height="72" /><br/><sub><b>30 Days of Pandas</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/introduction-to-pandas.gif" width="72" height="72" /><br/><sub><b>Intro to Pandas</b></sub></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/dp-grandmaster.gif" width="72" height="72" /><br/><sub><b>DP Grandmaster</b></sub></td>
+<td colspan="4" align="center"><sub>👆 Complete these study plans on <a href="https://leetcode.com/studyplan/">leetcode.com/studyplan</a> to earn badges on your profile</sub></td>
+</tr>
+</table>
 
 </div>
 
