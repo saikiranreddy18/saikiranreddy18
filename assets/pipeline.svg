@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-label="Real-time data pipeline: Kafka to Spark to Delta Lake to ML on Kubernetes to Power BI">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070D"/><stop offset="0.5" stop-color="#0A0E1A"/><stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <radialGradient id="pglow" cx="0.5" cy="0.5" r="0.7"><stop offset="0" stop-color="#5B21B6" stop-opacity="0.18"/><stop offset="1" stop-color="#05070D" stop-opacity="0"/></radialGradient>
+    <pattern id="pgrid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.4"/></pattern>
+    <filter id="pg" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="psoft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="8"/></filter>
+    <linearGradient id="ttl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#pbg)"/>
+  <rect width="1200" height="300" fill="url(#pgrid)"/>
+  <rect width="1200" height="300" fill="url(#pglow)"/>
+
+  <!-- title -->
+  <g transform="translate(60,44)" font-family="'Segoe UI', system-ui, sans-serif">
+    <circle cx="6" cy="-4" r="5" fill="#34D399"><animate attributeName="fill-opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="22" y="0" font-size="15" font-weight="700" letter-spacing="1" fill="url(#ttl)">data-pipeline.service</text>
+    <text x="212" y="0" font-size="13" letter-spacing="1" fill="#64748B">— active (streaming) · 10,000+ tx/min</text>
+  </g>
+
+  <!-- connectors (glowing rails) -->
+  <g stroke="#1E293B" stroke-width="2">
+    <line x1="205" y1="170" x2="295" y2="170"/><line x1="445" y1="170" x2="535" y2="170"/>
+    <line x1="685" y1="170" x2="775" y2="170"/><line x1="925" y1="170" x2="1015" y2="170"/>
+  </g>
+  <g stroke-width="2" stroke-linecap="round" fill="none">
+    <path d="M205 170H295" stroke="#22D3EE" stroke-dasharray="2 8"><animate attributeName="stroke-dashoffset" values="10;0" dur="0.7s" repeatCount="indefinite"/></path>
+    <path d="M445 170H535" stroke="#38BDF8" stroke-dasharray="2 8"><animate attributeName="stroke-dashoffset" values="10;0" dur="0.7s" repeatCount="indefinite"/></path>
+    <path d="M685 170H775" stroke="#818CF8" stroke-dasharray="2 8"><animate attributeName="stroke-dashoffset" values="10;0" dur="0.7s" repeatCount="indefinite"/></path>
+    <path d="M925 170H1015" stroke="#E879F9" stroke-dasharray="2 8"><animate attributeName="stroke-dashoffset" values="10;0" dur="0.7s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- flowing packets -->
+  <g>
+    <circle r="3.5" fill="#22D3EE"><animate attributeName="cx" values="205;295" dur="1.2s" begin="0s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle r="3" fill="#67E8F9"><animate attributeName="cx" values="205;295" dur="1.2s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle r="3.5" fill="#38BDF8"><animate attributeName="cx" values="445;535" dur="1.2s" begin="0.2s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle r="3" fill="#7DD3FC"><animate attributeName="cx" values="445;535" dur="1.2s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle r="3.5" fill="#818CF8"><animate attributeName="cx" values="685;775" dur="1.2s" begin="0.1s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+    <circle r="3" fill="#A5B4FC"><animate attributeName="cx" values="685;775" dur="1.2s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+    <circle r="3.5" fill="#E879F9"><animate attributeName="cx" values="925;1015" dur="1.2s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle r="3" fill="#F0ABFC"><animate attributeName="cx" values="925;1015" dur="1.2s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="cy" values="170;170" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ============ NODES ============ -->
+  <!-- node template: box + glow ring + glyph + label + sublabel -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+
+    <!-- 1 KAFKA -->
+    <g transform="translate(130,170)">
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#0B1220" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1.5"/>
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#22D3EE" fill-opacity="0.05"/>
+      <g stroke="#22D3EE" stroke-width="1.8" transform="translate(0,-14)">
+        <line x1="-9" y1="0" x2="9" y2="-8"/><line x1="-9" y1="0" x2="9" y2="8"/>
+        <circle cx="-9" cy="0" r="4" fill="#22D3EE" stroke="none"/><circle cx="9" cy="-8" r="4" fill="#22D3EE" stroke="none"/><circle cx="9" cy="8" r="4" fill="#22D3EE" stroke="none"/>
+      </g>
+      <text x="0" y="18" font-size="15" font-weight="700" fill="#E2E8F0">KAFKA</text>
+      <text x="0" y="34" font-size="10.5" letter-spacing="1" fill="#64748B">INGEST</text>
+    </g>
+
+    <!-- 2 SPARK -->
+    <g transform="translate(370,170)">
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#0B1220" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="1.5"/>
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#38BDF8" fill-opacity="0.05"/>
+      <g transform="translate(0,-14)" fill="#38BDF8"><path d="M2 -12 L-6 2 L0 2 L-2 12 L8 -3 L1 -3 Z"><animate attributeName="fill-opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/></path></g>
+      <text x="0" y="18" font-size="14.5" font-weight="700" fill="#E2E8F0">SPARK</text>
+      <text x="0" y="34" font-size="10.5" letter-spacing="1" fill="#64748B">STREAM · TRANSFORM</text>
+    </g>
+
+    <!-- 3 DELTA LAKE -->
+    <g transform="translate(610,170)">
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#0B1220" stroke="#818CF8" stroke-opacity="0.55" stroke-width="1.5"/>
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#818CF8" fill-opacity="0.05"/>
+      <g transform="translate(0,-16)">
+        <rect x="-22" y="-6" width="44" height="5" rx="2.5" fill="#B45309"><animate attributeName="fill-opacity" values="0.6;1;0.6" dur="3s" begin="0s" repeatCount="indefinite"/></rect>
+        <rect x="-22" y="1" width="44" height="5" rx="2.5" fill="#94A3B8"><animate attributeName="fill-opacity" values="0.6;1;0.6" dur="3s" begin="1s" repeatCount="indefinite"/></rect>
+        <rect x="-22" y="8" width="44" height="5" rx="2.5" fill="#FBBF24"><animate attributeName="fill-opacity" values="0.6;1;0.6" dur="3s" begin="2s" repeatCount="indefinite"/></rect>
+      </g>
+      <text x="0" y="18" font-size="14.5" font-weight="700" fill="#E2E8F0">DELTA LAKE</text>
+      <text x="0" y="34" font-size="10" letter-spacing="0.5" fill="#64748B">BRONZE ▸ SILVER ▸ GOLD</text>
+    </g>
+
+    <!-- 4 ML on K8s -->
+    <g transform="translate(850,170)">
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#0B1220" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#A78BFA" fill-opacity="0.05"/>
+      <g transform="translate(0,-14)" stroke="#A78BFA" stroke-width="1.6" fill="none">
+        <circle cx="0" cy="0" r="3.5" fill="#A78BFA"/><circle cx="-12" cy="-7" r="2.6" fill="#A78BFA"/><circle cx="12" cy="-7" r="2.6" fill="#A78BFA"/><circle cx="-12" cy="8" r="2.6" fill="#A78BFA"/><circle cx="12" cy="8" r="2.6" fill="#A78BFA"/>
+        <line x1="0" y1="0" x2="-12" y2="-7"/><line x1="0" y1="0" x2="12" y2="-7"/><line x1="0" y1="0" x2="-12" y2="8"/><line x1="0" y1="0" x2="12" y2="8"/>
+      </g>
+      <text x="0" y="18" font-size="14.5" font-weight="700" fill="#E2E8F0">ML · K8s</text>
+      <text x="0" y="34" font-size="10.5" letter-spacing="1" fill="#64748B">SCORE · 90%+ ACC</text>
+    </g>
+
+    <!-- 5 POWER BI -->
+    <g transform="translate(1090,170)">
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#0B1220" stroke="#E879F9" stroke-opacity="0.6" stroke-width="1.5"/>
+      <rect x="-72" y="-44" width="144" height="88" rx="16" fill="#E879F9" fill-opacity="0.05"/>
+      <g transform="translate(0,-14)" fill="#E879F9">
+        <rect x="-16" y="-2" width="6" height="12" rx="1"><animate attributeName="height" values="6;12;6" dur="2.2s" begin="0s" repeatCount="indefinite"/><animate attributeName="y" values="4;-2;4" dur="2.2s" begin="0s" repeatCount="indefinite"/></rect>
+        <rect x="-6" y="-8" width="6" height="18" rx="1"><animate attributeName="height" values="10;18;10" dur="2.2s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="y" values="0;-8;0" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></rect>
+        <rect x="4" y="-12" width="6" height="22" rx="1"><animate attributeName="height" values="14;22;14" dur="2.2s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="-4;-12;-4" dur="2.2s" begin="0.8s" repeatCount="indefinite"/></rect>
+      </g>
+      <text x="0" y="18" font-size="14.5" font-weight="700" fill="#E2E8F0">POWER BI</text>
+      <text x="0" y="34" font-size="10.5" letter-spacing="1" fill="#64748B">DECIDE</text>
+    </g>
+  </g>
+
+  <!-- caption -->
+  <text x="600" y="278" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" letter-spacing="2" fill="#475569">BUILT &amp; SHIPPED END-TO-END — NOT THEORY, PRODUCTION</text>
+</svg>

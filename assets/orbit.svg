@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" fill="none" role="img" aria-label="Full-stack toolkit constellation: intelligence, data, cloud, languages">
+  <defs>
+    <linearGradient id="obg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070D"/><stop offset="0.5" stop-color="#0A0E1A"/><stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <radialGradient id="ocore" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#818CF8" stop-opacity="0.9"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="oglow" cx="0.5" cy="0.5" r="0.6"><stop offset="0" stop-color="#4C1D95" stop-opacity="0.25"/><stop offset="1" stop-color="#05070D" stop-opacity="0"/></radialGradient>
+    <pattern id="ogrid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.35"/></pattern>
+    <filter id="oglowf" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <path id="orb1" d="M470,165 a130,58 0 1,1 260,0 a130,58 0 1,1 -260,0"/>
+    <path id="orb2" d="M410,165 a190,86 0 1,1 380,0 a190,86 0 1,1 -380,0"/>
+  </defs>
+
+  <rect width="1200" height="330" fill="url(#obg)"/>
+  <rect width="1200" height="330" fill="url(#ogrid)"/>
+  <ellipse cx="600" cy="165" rx="420" ry="180" fill="url(#oglow)"/>
+
+  <!-- connector lines core -> corner hubs -->
+  <g stroke="#334155" stroke-width="1" stroke-opacity="0.5">
+    <line x1="600" y1="165" x2="235" y2="92"/><line x1="600" y1="165" x2="965" y2="92"/>
+    <line x1="600" y1="165" x2="235" y2="238"/><line x1="600" y1="165" x2="965" y2="238"/>
+  </g>
+  <!-- packets along connectors -->
+  <g>
+    <circle r="2.6" fill="#22D3EE"><animateMotion dur="3s" repeatCount="indefinite" path="M600,165 L235,92"/><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" fill="#38BDF8"><animateMotion dur="3s" begin="0.7s" repeatCount="indefinite" path="M600,165 L965,92"/><animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.7s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" fill="#A78BFA"><animateMotion dur="3s" begin="1.4s" repeatCount="indefinite" path="M600,165 L235,238"/><animate attributeName="opacity" values="0;1;0" dur="3s" begin="1.4s" repeatCount="indefinite"/></circle>
+    <circle r="2.6" fill="#E879F9"><animateMotion dur="3s" begin="2.1s" repeatCount="indefinite" path="M600,165 L965,238"/><animate attributeName="opacity" values="0;1;0" dur="3s" begin="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- decorative orbit rings -->
+  <use href="#orb1" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="3 6" stroke-opacity="0.6"/>
+  <use href="#orb2" fill="none" stroke="#312E81" stroke-width="1" stroke-dasharray="3 7" stroke-opacity="0.6"/>
+
+  <!-- orbiting electrons -->
+  <g>
+    <circle r="4" fill="#22D3EE" filter="url(#oglowf)"><animateMotion dur="7s" repeatCount="indefinite"><mpath href="#orb1"/></animateMotion></circle>
+    <circle r="3" fill="#E879F9"><animateMotion dur="7s" begin="3.5s" repeatCount="indefinite"><mpath href="#orb1"/></animateMotion></circle>
+    <circle r="4" fill="#818CF8" filter="url(#oglowf)"><animateMotion dur="11s" repeatCount="indefinite"><mpath href="#orb2"/></animateMotion></circle>
+    <circle r="3" fill="#38BDF8"><animateMotion dur="11s" begin="5.5s" repeatCount="indefinite"><mpath href="#orb2"/></animateMotion></circle>
+  </g>
+
+  <!-- CORE -->
+  <g transform="translate(600,165)" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif">
+    <circle cx="0" cy="0" r="46" fill="url(#ocore)" opacity="0.5"><animate attributeName="r" values="42;50;42" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="0" cy="0" r="34" fill="#0B1220" stroke="#818CF8" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="34" fill="#818CF8" fill-opacity="0.06"/>
+    <rect x="-7" y="-7" width="14" height="14" rx="2.5" transform="rotate(45)" fill="none" stroke="#22D3EE" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="2.5" fill="#22D3EE"><animate attributeName="fill" values="#22D3EE;#E879F9;#22D3EE" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="0" y="26" font-size="10" letter-spacing="2" font-weight="700" fill="#C4B5FD">FULL-STACK</text>
+  </g>
+
+  <!-- corner category blocks -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <!-- TL Intelligence -->
+    <g>
+      <circle cx="235" cy="92" r="5" fill="#22D3EE"/>
+      <text x="70" y="66" font-size="13" letter-spacing="2" font-weight="700" fill="#22D3EE">◇ INTELLIGENCE</text>
+      <text x="70" y="88" font-size="12.5" font-weight="600" fill="#CBD5E1">PyTorch · TensorFlow · Hugging Face</text>
+      <text x="70" y="107" font-size="12.5" font-weight="600" fill="#94A3B8">LangChain · MLflow · n8n · RAG</text>
+    </g>
+    <!-- TR Data -->
+    <g text-anchor="end">
+      <circle cx="965" cy="92" r="5" fill="#38BDF8"/>
+      <text x="1130" y="66" font-size="13" letter-spacing="2" font-weight="700" fill="#38BDF8">DATA AT SCALE ◇</text>
+      <text x="1130" y="88" font-size="12.5" font-weight="600" fill="#CBD5E1">Kafka · Spark · Delta Lake</text>
+      <text x="1130" y="107" font-size="12.5" font-weight="600" fill="#94A3B8">Databricks · Airflow · dbt</text>
+    </g>
+    <!-- BL Cloud -->
+    <g>
+      <circle cx="235" cy="238" r="5" fill="#A78BFA"/>
+      <text x="70" y="252" font-size="13" letter-spacing="2" font-weight="700" fill="#A78BFA">◇ RUNS ANYWHERE</text>
+      <text x="70" y="274" font-size="12.5" font-weight="600" fill="#CBD5E1">AWS · Kubernetes · Docker</text>
+      <text x="70" y="293" font-size="12.5" font-weight="600" fill="#94A3B8">Terraform · Jenkins · CI/CD</text>
+    </g>
+    <!-- BR Languages -->
+    <g text-anchor="end">
+      <circle cx="965" cy="238" r="5" fill="#E879F9"/>
+      <text x="1130" y="252" font-size="13" letter-spacing="2" font-weight="700" fill="#E879F9">LANGUAGES ◇</text>
+      <text x="1130" y="274" font-size="12.5" font-weight="600" fill="#CBD5E1">Python · SQL</text>
+      <text x="1130" y="293" font-size="12.5" font-weight="600" fill="#94A3B8">Scala · Bash</text>
+    </g>
+  </g>
+</svg>

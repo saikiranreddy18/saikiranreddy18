@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="184" viewBox="0 0 1200 184" fill="none" role="img" aria-label="Impact metrics: 10K+ transactions per minute, 90%+ accuracy, 20K+ orders per day, $350 hackathon win, 40% faster deploys">
+  <defs>
+    <linearGradient id="mbg" x1="0" y1="0" x2="1200" y2="184" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070A12"/><stop offset="1" stop-color="#05070D"/>
+    </linearGradient>
+    <pattern id="mgrid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.35"/></pattern>
+    <filter id="mg" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="184" fill="url(#mbg)"/>
+  <rect width="1200" height="184" fill="url(#mgrid)"/>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <text x="600" y="30" font-size="13" letter-spacing="4" font-weight="600" fill="#475569">◆&#160;&#160;IMPACT, MEASURED IN PRODUCTION</text>
+
+    <!-- tile helper: rect + number + label + underline -->
+    <!-- 1 -->
+    <g transform="translate(150,0)">
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#0B1220" stroke="#22D3EE" stroke-opacity="0.28" stroke-width="1.2"/>
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#22D3EE" fill-opacity="0.04"/>
+      <text x="0" y="108" font-size="40" font-weight="800" fill="#22D3EE" filter="url(#mg)">10K<tspan font-size="22">+</tspan></text>
+      <text x="0" y="134" font-size="11" letter-spacing="1.5" fill="#7DD3FC">TX / MIN STREAMED</text>
+      <text x="0" y="150" font-size="9.5" letter-spacing="1" fill="#475569">FRAUD DETECTION</text>
+      <rect x="-30" y="156" width="60" height="2.5" rx="1.25" fill="#22D3EE"><animate attributeName="width" values="20;60;20" dur="3s" repeatCount="indefinite"/><animate attributeName="x" values="-10;-30;-10" dur="3s" repeatCount="indefinite"/></rect>
+    </g>
+    <!-- 2 -->
+    <g transform="translate(375,0)">
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#0B1220" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="1.2"/>
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#38BDF8" fill-opacity="0.04"/>
+      <text x="0" y="108" font-size="40" font-weight="800" fill="#38BDF8" filter="url(#mg)">90<tspan font-size="22">%+</tspan></text>
+      <text x="0" y="134" font-size="11" letter-spacing="1.5" fill="#7DD3FC">MODEL ACCURACY</text>
+      <text x="0" y="150" font-size="9.5" letter-spacing="1" fill="#475569">MLflow REGISTRY</text>
+      <rect x="-30" y="156" width="60" height="2.5" rx="1.25" fill="#38BDF8"><animate attributeName="width" values="20;60;20" dur="3s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="x" values="-10;-30;-10" dur="3s" begin="0.5s" repeatCount="indefinite"/></rect>
+    </g>
+    <!-- 3 -->
+    <g transform="translate(600,0)">
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#0B1220" stroke="#818CF8" stroke-opacity="0.3" stroke-width="1.2"/>
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#818CF8" fill-opacity="0.04"/>
+      <text x="0" y="108" font-size="40" font-weight="800" fill="#818CF8" filter="url(#mg)">20K<tspan font-size="22">+</tspan></text>
+      <text x="0" y="134" font-size="11" letter-spacing="1.5" fill="#C4B5FD">ORDERS / DAY</text>
+      <text x="0" y="150" font-size="9.5" letter-spacing="1" fill="#475569">SUPPLY-CHAIN FORECAST</text>
+      <rect x="-30" y="156" width="60" height="2.5" rx="1.25" fill="#818CF8"><animate attributeName="width" values="20;60;20" dur="3s" begin="1s" repeatCount="indefinite"/><animate attributeName="x" values="-10;-30;-10" dur="3s" begin="1s" repeatCount="indefinite"/></rect>
+    </g>
+    <!-- 4 -->
+    <g transform="translate(825,0)">
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#0B1220" stroke="#A78BFA" stroke-opacity="0.3" stroke-width="1.2"/>
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#A78BFA" fill-opacity="0.04"/>
+      <text x="0" y="108" font-size="40" font-weight="800" fill="#A78BFA" filter="url(#mg)">$350</text>
+      <text x="0" y="134" font-size="11" letter-spacing="1.5" fill="#C4B5FD">HACKATHON WIN</text>
+      <text x="0" y="150" font-size="9.5" letter-spacing="1" fill="#475569">N8N AGENTIC ARENA</text>
+      <rect x="-30" y="156" width="60" height="2.5" rx="1.25" fill="#A78BFA"><animate attributeName="width" values="20;60;20" dur="3s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="x" values="-10;-30;-10" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+    </g>
+    <!-- 5 -->
+    <g transform="translate(1050,0)">
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#0B1220" stroke="#E879F9" stroke-opacity="0.3" stroke-width="1.2"/>
+      <rect x="-100" y="48" width="200" height="118" rx="14" fill="#E879F9" fill-opacity="0.04"/>
+      <text x="0" y="108" font-size="40" font-weight="800" fill="#E879F9" filter="url(#mg)">40<tspan font-size="22">% ↓</tspan></text>
+      <text x="0" y="134" font-size="11" letter-spacing="1.5" fill="#F0ABFC">FASTER DEPLOYS</text>
+      <text x="0" y="150" font-size="9.5" letter-spacing="1" fill="#475569">BROADRIDGE · GITOPS</text>
+      <rect x="-30" y="156" width="60" height="2.5" rx="1.25" fill="#E879F9"><animate attributeName="width" values="20;60;20" dur="3s" begin="2s" repeatCount="indefinite"/><animate attributeName="x" values="-10;-30;-10" dur="3s" begin="2s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>
