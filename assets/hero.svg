@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Sai Kiran Reddy — Data Engineer, AI Developer, Agentic Systems Architect">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070D"/>
+      <stop offset="0.5" stop-color="#0A0E1A"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <radialGradient id="glowbg" cx="0.72" cy="0.35" r="0.6">
+      <stop offset="0" stop-color="#5B21B6" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#0EA5E9" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#05070D" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Animated accent gradient for headline (objectBoundingBox = always covers full text) -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#E879F9"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.35 0; 0.35 0; -0.35 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#E879F9" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.5"/>
+    </pattern>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- Base -->
+  <rect width="1200" height="320" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glowbg)"/>
+
+  <!-- ============ Neural constellation (right) ============ -->
+  <g stroke="#334155" stroke-width="1" opacity="0.9">
+    <line x1="905" y1="80"  x2="1010" y2="55">
+      <animate attributeName="stroke-opacity" values="0.15;0.7;0.15" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="1010" y1="55" x2="1105" y2="110"><animate attributeName="stroke-opacity" values="0.6;0.15;0.6" dur="5s" repeatCount="indefinite"/></line>
+    <line x1="905" y1="80"  x2="960"  y2="150"><animate attributeName="stroke-opacity" values="0.2;0.65;0.2" dur="3.6s" repeatCount="indefinite"/></line>
+    <line x1="960" y1="150" x2="1105" y2="110"><animate attributeName="stroke-opacity" values="0.55;0.2;0.55" dur="4.4s" repeatCount="indefinite"/></line>
+    <line x1="960" y1="150" x2="1040" y2="215"><animate attributeName="stroke-opacity" values="0.2;0.6;0.2" dur="4.8s" repeatCount="indefinite"/></line>
+    <line x1="1040" y1="215" x2="1120" y2="185"><animate attributeName="stroke-opacity" values="0.5;0.15;0.5" dur="4.1s" repeatCount="indefinite"/></line>
+    <line x1="1105" y1="110" x2="1120" y2="185"><animate attributeName="stroke-opacity" values="0.15;0.6;0.15" dur="5.2s" repeatCount="indefinite"/></line>
+    <line x1="905" y1="80"  x2="860"  y2="205"><animate attributeName="stroke-opacity" values="0.15;0.5;0.15" dur="6s" repeatCount="indefinite"/></line>
+    <line x1="860" y1="205" x2="1040" y2="215"><animate attributeName="stroke-opacity" values="0.45;0.15;0.45" dur="5.6s" repeatCount="indefinite"/></line>
+  </g>
+  <g>
+    <g fill="#22D3EE"><circle cx="905"  cy="80"  r="5"><animate attributeName="r" values="4;6.5;4" dur="3s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/></circle></g>
+    <g fill="#818CF8"><circle cx="1010" cy="55"  r="4"><animate attributeName="r" values="3.5;6;3.5" dur="3.8s" repeatCount="indefinite"/></circle></g>
+    <g fill="#E879F9"><circle cx="1105" cy="110" r="5"><animate attributeName="r" values="4;7;4" dur="4.2s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="0.7;1;0.7" dur="4.2s" repeatCount="indefinite"/></circle></g>
+    <g fill="#38BDF8"><circle cx="960"  cy="150" r="6"><animate attributeName="r" values="5;8;5" dur="3.4s" repeatCount="indefinite"/></circle></g>
+    <g fill="#A78BFA"><circle cx="1040" cy="215" r="4.5"><animate attributeName="r" values="3.5;6.5;3.5" dur="4.6s" repeatCount="indefinite"/></circle></g>
+    <g fill="#22D3EE"><circle cx="1120" cy="185" r="3.5"><animate attributeName="r" values="3;5;3" dur="5s" repeatCount="indefinite"/></circle></g>
+    <g fill="#F0ABFC"><circle cx="860"  cy="205" r="3.5"><animate attributeName="r" values="3;5.5;3" dur="5.4s" repeatCount="indefinite"/></circle></g>
+  </g>
+
+  <!-- Floating particles -->
+  <g fill="#64748B">
+    <circle cx="820" cy="120" r="1.5"><animate attributeName="cy" values="120;100;120" dur="7s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="0.2;0.7;0.2" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="1160" cy="250" r="1.5"><animate attributeName="cy" values="250;230;250" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="240" r="1.2"><animate attributeName="fill-opacity" values="0.1;0.6;0.1" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ============ Text (left) ============ -->
+  <!-- kicker -->
+  <g transform="translate(72,78)">
+    <rect x="0" y="-11" width="12" height="12" rx="2" fill="#22D3EE" transform="rotate(45 6 -5)"/>
+    <text x="26" y="0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" letter-spacing="4" font-weight="600" fill="#7DD3FC">INNOVATOR · BUILDER · ENGINEER</text>
+  </g>
+
+  <!-- name -->
+  <text x="70" y="158" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="66" font-weight="800" letter-spacing="1" fill="url(#accent)" filter="url(#glow)">SAI KIRAN REDDY</text>
+
+  <!-- accent rule -->
+  <rect x="72" y="176" width="360" height="3" rx="1.5" fill="url(#rule)">
+    <animate attributeName="width" values="0;360;360" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- tagline -->
+  <text x="72" y="216" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="500" fill="#E2E8F0">I build systems that think, act &amp; heal themselves.</text>
+
+  <!-- role line -->
+  <text x="72" y="252" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" letter-spacing="3" font-weight="600" fill="#64748B">DATA ENGINEER &#160;·&#160; AI DEVELOPER &#160;·&#160; AGENTIC SYSTEMS ARCHITECT</text>
+
+  <!-- status chips -->
+  <g transform="translate(72,278)" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" font-weight="600">
+    <g>
+      <rect x="0" y="0" width="134" height="26" rx="13" fill="#0EA5E9" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.5"/>
+      <circle cx="20" cy="13" r="4" fill="#22D3EE"><animate attributeName="fill-opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="34" y="17" fill="#7DD3FC">OPEN TO WORK</text>
+    </g>
+    <g transform="translate(148,0)">
+      <rect x="0" y="0" width="168" height="26" rx="13" fill="#818CF8" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.45"/>
+      <text x="18" y="17" fill="#C4B5FD">REMOTE · WORLDWIDE</text>
+    </g>
+    <g transform="translate(330,0)">
+      <rect x="0" y="0" width="128" height="26" rx="13" fill="#E879F9" fill-opacity="0.10" stroke="#E879F9" stroke-opacity="0.4"/>
+      <text x="18" y="17" fill="#F0ABFC">CLASS OF 2026</text>
+    </g>
+  </g>
+</svg>

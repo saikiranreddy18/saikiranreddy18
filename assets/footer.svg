@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none" role="img" aria-label="raw data to intelligence to impact">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset="0.5" stop-color="#0A0E1A"/>
+      <stop offset="1" stop-color="#05070D"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="0.5" cy="1" r="0.8">
+      <stop offset="0" stop-color="#6D28D9" stop-opacity="0.35"/>
+      <stop offset="0.6" stop-color="#0EA5E9" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#05070D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#E879F9"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.3 0; 0.3 0; -0.3 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.4"/>
+    </pattern>
+    <filter id="fg" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="150" fill="url(#fbg)"/>
+  <rect width="1200" height="150" fill="url(#fgrid)"/>
+  <rect width="1200" height="150" fill="url(#fglow)"/>
+
+  <!-- flow nodes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <g transform="translate(340,62)">
+      <circle cx="0" cy="0" r="7" fill="none" stroke="#22D3EE" stroke-width="2"/>
+      <circle cx="0" cy="0" r="2.5" fill="#22D3EE"/>
+    </g>
+    <line x1="358" y1="62" x2="582" y2="62" stroke="#334155" stroke-width="1.5" stroke-dasharray="4 5">
+      <animate attributeName="stroke-dashoffset" values="18;0" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+    <g transform="translate(600,62)">
+      <circle cx="0" cy="0" r="7" fill="none" stroke="#818CF8" stroke-width="2"/>
+      <circle cx="0" cy="0" r="2.5" fill="#818CF8"/>
+    </g>
+    <line x1="618" y1="62" x2="842" y2="62" stroke="#334155" stroke-width="1.5" stroke-dasharray="4 5">
+      <animate attributeName="stroke-dashoffset" values="18;0" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+    <g transform="translate(860,62)">
+      <circle cx="0" cy="0" r="7" fill="none" stroke="#E879F9" stroke-width="2"/>
+      <circle cx="0" cy="0" r="2.5" fill="#E879F9"/>
+    </g>
+  </g>
+
+  <text x="600" y="102" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="30" font-weight="800" letter-spacing="2" fill="url(#fgrad)" filter="url(#fg)">RAW DATA → INTELLIGENCE → IMPACT</text>
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" letter-spacing="3" fill="#64748B">ENGINEERED, NOT PREDICTED</text>
+</svg>
